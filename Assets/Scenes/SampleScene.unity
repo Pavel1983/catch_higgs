@@ -652,7 +652,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   energyImg: {fileID: 671740135}
-  winScreen: {fileID: 0}
+  winScreen: {fileID: 218500259}
 --- !u!1 &379498766
 GameObject:
   m_ObjectHideFlags: 0
